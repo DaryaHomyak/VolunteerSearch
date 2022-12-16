@@ -1,0 +1,1 @@
+export const jwtKey = "809432jofdsn3udfsjewjdmn465^&%$^#"
