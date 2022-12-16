@@ -1,0 +1,12 @@
+.container {
+  padding: 7px 15px;
+  border-radius: 15px;
+  border: none;
+  background-color: aqua;
+  font-weight: 800;
+  cursor: pointer;
+
+  &:hover {
+    background-color: blue;
+  }
+}
